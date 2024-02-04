@@ -1,6 +1,6 @@
 # ESP32-webradio-easy-control
 
-# for a more current version
+## for a more current version
 
 https://github.com/thieu-b55/The---I-want-this---ESP32-S3-Internet-radio
 
